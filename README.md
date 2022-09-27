@@ -22,3 +22,6 @@ Over on [repl.it](https://replit.com/@thenicopanda1/MadPinkUpgrade#main.py) I ha
 * `ei_user_id` is just your EID from the game, this can be found by going to `Settings-> Privacy & Data-> and it's under the 2 red buttons.
 * `contract_identifier` is the ID of the contract, for example: The contract `Depleted Reserves` has an ID  of `heat-wave-2022`. This ID can be found in `get_periodicals()`.
 * `coop_identifier` is the Coop Code.
+
+## Contact
+If you have any questions/comments/concerns, feel free to message me on discord `alex the nerd#6969`
