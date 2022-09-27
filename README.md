@@ -17,6 +17,7 @@ Over on [repl.it](https://replit.com/@thenicopanda1/MadPinkUpgrade#main.py) I ha
 
 ## Basics
 * To start using this project add `ei.py`, `ei_pb2.py`, and the folder `google` to your folder. Then import the ei file into wherever you're workin, it should look something like ```from ei import *``` or maybe `from ei import get_first_contact`.
+* You can skip the `google` folder by using `pip install protobuf`.
 * Every Request will return as a Dictionary. [Here](https://www.w3schools.com/python/python_dictionaries.asp) is a quick refresher on Python Dictionaries if you feel you cannot interact with one.
 * `ei_user_id` is just your EID from the game, this can be found by going to `Settings-> Privacy & Data-> and it's under the 2 red buttons.
 * `contract_identifier` is the ID of the contract, for example: The contract `Depleted Reserves` has an ID  of `heat-wave-2022`. This ID can be found in `get_periodicals()`.
